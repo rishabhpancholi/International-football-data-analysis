@@ -19,7 +19,7 @@ Install the following python packages using the following script-
 pip install -r requirements.txt
 ```
 
-4.Run the application through this command-
+3.Run the application through this command-
 
 ```bash
 python app.py
