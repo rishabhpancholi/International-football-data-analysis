@@ -4,7 +4,8 @@
 
 i.) International Matches Dataset taken from Kaggle is used ('https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017') to present the facts and figures of International Football throughout the history through interactive UI
 
-## These are the different pages of the app-
+## These are the different pages of the app:
+![Screenshot 1](Football-Analysis-PAge-1.png)
 
 
 ## To get started with this project,follow the steps mentioned below:
