@@ -1,8 +1,8 @@
 
-# International-football-data-analysis
+# International-football-data-analysis-using-python
  International Matches from 1872 to mid 2024 analyzed
 
-i.) International Matches Dataset taken from Kaggle is used ('https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017') to present the facts and figures of International Football throughout the history through interactive UI
+i.) International Matches Dataset taken from Kaggle is used ('https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017') to present the facts and figures of International Football throughout the history through interactive UI. Streamlit is used to build this website.
 
 ## These are the different pages of the app:
 ![Screenshot 1](Football-Analysis-Page-1.png)
